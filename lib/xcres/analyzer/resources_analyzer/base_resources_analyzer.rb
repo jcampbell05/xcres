@@ -9,7 +9,7 @@ module XCRes
     #
     class BaseResourcesAnalyzer < Analyzer
 
-      FILTER_WORDS = ['icon', 'image']
+      FILTER_WORDS = []
 
       # Get a list of all files in a directory
       #
